@@ -1,0 +1,19 @@
+#object{
+    color: black;
+    font-size: 20px;
+    background-color: #ff0051;
+    }
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    background: #00ddff;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    color: black;
+}
